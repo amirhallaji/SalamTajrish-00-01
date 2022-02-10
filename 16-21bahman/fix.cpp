@@ -6,6 +6,6 @@ int main(){
       int n;
       cin >> n;
 
-      int arr[n];
+      int arr[n]; // Not recommended
       return 0;
 }
